@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name                  = 'deepak1'
+  s.name                  = 'Flutter'
   s.version               = '1.22.100' # 1.22.1
   s.summary               = 'Flutter Engine Framework'
   s.description           = <<-DESC
