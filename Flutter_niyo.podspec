@@ -41,5 +41,5 @@ LICENSE
   s.source                = { :git => 'https://github.com/antivirusDeepak/flutter1.git' }
   s.documentation_url     = 'https://flutter.dev/docs'
   s.platform              = :ios, '9.0'
-  s.vendored_frameworks   = 'Flutter.xcframework'
+  s.vendored_frameworks   = 'App.xcframework'
 end
